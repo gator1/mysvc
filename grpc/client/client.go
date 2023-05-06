@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/neocortical/mysvc"
-	mysvcgrpc "github.com/neocortical/mysvc/grpc"
+	"github.com/gator1/mysvc"
+	mysvcgrpc "github.com/gator1/mysvc/grpc"
 	"google.golang.org/grpc"
 )
 

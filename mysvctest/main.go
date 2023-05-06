@@ -5,9 +5,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/neocortical/mysvc"
-	mysvccore "github.com/neocortical/mysvc/core"
-	mysvcgrpc "github.com/neocortical/mysvc/grpc/client"
+	"github.com/gator1/mysvc"
+	mysvccore "github.com/gator1/mysvc/core"
+	mysvcgrpc "github.com/gator1/mysvc/grpc/client"
 	"github.com/xiam/to"
 )
 
