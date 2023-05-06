@@ -3,6 +3,7 @@ module github.com/gator1/mysvc
 go 1.20
 
 require (
+	github.com/gator1/mysvc v0.0.0-18f3f97
 	github.com/golang/protobuf v1.5.3
 	github.com/xiam/to v0.0.0-20200126224905-d60d31e03561
 	google.golang.org/grpc v1.30.0
